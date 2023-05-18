@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8a8016a-66fa-4750-8be2-6d6a3667890f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/root/src/chapter_one/Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/root/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/root/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/root/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/root/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/root/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/root/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/root/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/MiniDuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/animals/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/animals/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/animals/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/animals/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/FlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/FlyNoWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/FlyWithWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head_first_design_patterns/src/chapter_one/behaviors/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/behaviors/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/src/chapter_one/Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/root/src/chapter_one/Summary.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
